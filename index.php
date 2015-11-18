@@ -51,6 +51,7 @@
                 <img src="//www.drivejoy.co.uk/assets/images/logo-white.png" alt="drivejoy BETA" title="drivejoy BETA"/><br>
                 Prices from:<br>
                 <div id="prices"><?php require 'pricing'; ?></div>
+                <div id="responsiveness"><?php require 'responsiveness'; ?></div>
             </a>
 
         </div>
